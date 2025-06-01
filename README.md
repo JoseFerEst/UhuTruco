@@ -1,7 +1,7 @@
 # UhuTruco
 Repositorio MGCSS UHUTruco
 Indicaciones Proyecto MGCSS UHUTRUCO:
-- Base de Datos: 	
+- Base de Datos: 	          
 1- En un servidor MySQL darle a Data Import/Restore (pestaña: Administration)  
 2- Darle a Import from self-Contained File  
 3- Seleccionar el archivo uhutrucoBD.sql  
