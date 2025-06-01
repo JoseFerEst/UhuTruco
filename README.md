@@ -10,4 +10,3 @@ Indicaciones Proyecto MGCSS UHUTRUCO:
 6- Información extra: la base de datos creada con el archivo .sql se llama "sample".  
 - Extensiones del Proyecto: Todas las necesarias para ejecutar proyectos Java Spring Boot (Maven), con archivos HTML y CSS  
 - Está definido el puerto 8080 para la ejecución, por lo que escribiendo en el navegador "localhost:8080" se accede a la pantalla de login de la aplicación. Si se desea cambiar, modificarlo en: "application.properties".  
-.
